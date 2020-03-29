@@ -1,5 +1,6 @@
-# rona 🦠
+# Covid-19 Dash 🦠
 Code along with React + Next + Hooks API
 
-<https://www.youtube.com/watch?v=B85s0cjlitE>
+API Reference: https://covid19.mathdro.id/api
+Thanks for the ref: https://github.com/wesbos
 
